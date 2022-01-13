@@ -1,0 +1,57 @@
+
+
+header{
+    background-color: rgb(65, 155, 228);
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+   
+    padding: 15px;
+}
+
+#logo{
+    width: 200px;
+    height: auto;
+    padding-top:30px;
+  
+}
+
+
+#scrittore{
+    font-size: 15px;
+    color: rgb(77, 77, 77);
+}
+
+#data{
+    font-size: 12px;
+    color: rgb(77, 77, 77);
+}
+
+#descrizioneimmagini{
+    font-size: 12px;
+}
+
+footer{
+    padding-top: 15px;
+}
+
+h3{
+    color: rgb(77, 77, 77);
+}
+
+#monitor{
+    background-image: url(img/monitor.jpg);
+    color: #FFFFFF;
+    width: 270px;
+    height: 200px;
+    padding-left: 10px;
+    font-size: 150%;
+}
+
+#graph{
+    background-image: url(img/graph.jpg);
+    color: #FFFFFF;
+    width: 270px;
+    height: 200px;
+    padding-left: 10px;
+    font-size: 150%;
+}
